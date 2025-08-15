@@ -1,0 +1,4 @@
+﻿Model;Constraint;NumExperts;Position;RunPath;Filename
+Residual;importance;4;4;lukas-struppek/resnet_18_gating_complexity/1ozs7mi3;Residual_4_topK=2_loss=importance_w_aux=0.5_moePosition=4_0_final.tar
+Residual;importance;4;4;lukas-struppek/resnet_18_gating_complexity/1eocbnbc;Residual_4_topK=2_loss=importance_w_aux=0.5_moePosition=4_1_final.tar
+Residual;importance;4;4;lukas-struppek/resnet_18_gating_complexity/8wgeyz81;Residual_4_topK=2_loss=importance_w_aux=0.5_moePosition=4_2_final.tar
