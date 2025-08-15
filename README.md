@@ -1,5 +1,3 @@
-# cnn-moe-interpretability
-
 # CNN-MoE-Interpretability
 
 This repository contains code for reproducing experiments and analysis from the paper:
